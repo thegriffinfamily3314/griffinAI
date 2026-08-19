@@ -219,7 +219,7 @@ NODES_DIR="${COMFY}/custom_nodes"
 
 COMFY_UPDATE="1"
 NODE_UPDATE="1"
-WANT_TURBO="0"
+WANT_TURBO="1"
 WANT_SEEDVR2="0"
 echo "[provisioning] comfy_update=${COMFY_UPDATE} node_update=${NODE_UPDATE} turbo=${WANT_TURBO} seedvr2=${WANT_SEEDVR2}"
 
