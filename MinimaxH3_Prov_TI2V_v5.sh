@@ -879,6 +879,7 @@ CIVITAI_FILES=(
     "$LORA|H3_Mini_Dick_Fix.safetensors|https://civitai.red/api/download/models/3207332?fileId=3088892"
     "$LORA|H3_K3NK_Side_View_Deepthroat.safetensors|https://civitai.red/api/download/models/3216591?fileId=3098396"
     "$LORA|H3_blowjob.safetensors|https://civitai.red/api/download/models/3235946?fileId=3118341"
+    "$LORA|Mystic_xxx.safetensors|https://civitai.red/api/download/models/3266628?fileId=3150341"
 )
 
 # --- Hugging Face:  hf | dest_dir | dest_filename | repo_id | repo_path ---
