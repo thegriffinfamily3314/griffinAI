@@ -881,6 +881,7 @@ CIVITAI_FILES=(
     "$LORA|H3_blowjob.safetensors|https://civitai.red/api/download/models/3235946?fileId=3118341"
     "$LORA|Mystic_xxx.safetensors|https://civitai.red/api/download/models/3266628?fileId=3150341"
     "$LORA|H3_HMNSFW_AIO_Sex_V2_5.safetensors|https://civitai.red/api/download/models/3268303?fileId=3152083"
+    "$LORA|H3_VIDEOAGE_Slider.safetensors|https://civitai.red/api/download/models/3329985?fileId=3216061"
 )
 
 # --- Hugging Face:  hf | dest_dir | dest_filename | repo_id | repo_path ---
